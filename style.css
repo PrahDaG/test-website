@@ -1,0 +1,34 @@
+html,body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    background-color: crimson;
+}
+#titles{
+color:aliceblue;
+}
+
+#image1{ 
+    margin: 10px;
+    border: 10px ;
+    padding: 10px;
+    position:relative;
+    border:solid goldenrod;
+/*vw = view width, vh = view height*/
+
+}
+#image4{
+    position:relative;
+    margin:20px;
+    padding:20px;
+    border: solid goldenrod;
+}
+#image5{
+ position: relative;
+ top:2vh;
+ border:solid goldenrod;
+}
+canvas{
+    position: relative;
+    top:10px;
+}
